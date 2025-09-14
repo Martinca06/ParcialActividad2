@@ -1,0 +1,14 @@
+# Archivos de compilación
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.log
+
+# Archivos de CLion
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
